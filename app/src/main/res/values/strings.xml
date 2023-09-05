@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="TextView" />
+    <string name="call_second_activity" />
+    <string name="second_activity" />
+    <string name="go_to_first_activity" />
+    <string name="editMessage" />
+</resources>
